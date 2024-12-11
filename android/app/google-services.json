@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "846956450434",
+    "project_id": "absensi-703d7",
+    "storage_bucket": "absensi-703d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846956450434:android:60ec32263375611cb75a9b",
+        "android_client_info": {
+          "package_name": "com.example.absensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZtl0jiLMHp6-fSXLKA3zNZjMovIZZoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846956450434:android:ac61ffcfd0679efbb75a9b",
+        "android_client_info": {
+          "package_name": "com.example.presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZtl0jiLMHp6-fSXLKA3zNZjMovIZZoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846956450434:android:75cd847e157e1f2cb75a9b",
+        "android_client_info": {
+          "package_name": "com.integras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZtl0jiLMHp6-fSXLKA3zNZjMovIZZoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
